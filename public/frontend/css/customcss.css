@@ -1,0 +1,14 @@
+.navbar-nav {
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+.navbar__img {
+	width: 100px;
+	height: auto;
+	margin-left: 50px;
+}
+.page-footer{
+	border-top:#000000;
+	
+}
