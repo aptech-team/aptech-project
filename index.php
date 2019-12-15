@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" type="text/css" href="public/frontend/css/customcss.css">
-<title>Title</title>
+<title>Giftshop</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
